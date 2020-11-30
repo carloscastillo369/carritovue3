@@ -1,0 +1,58 @@
+[
+    { 
+        "id": 1, 
+        "nombre": "Desarrollo Front-End",
+        "descripcion":"Un desarrollador front end tiene que dominar HTML, CSS y JavaScript para darle vida a los diseños. Es responsable del desarrollo front-end de la interfaz gráfica de la aplicación web. El dinamismo de la tecnología front - end se encuentra principalmente en los frameworks, que son bibliotecas optimizadas para el desarrollo web", 
+        "precio": 800, 
+        "imagen":"curso-frontend" 
+    },
+    { 
+        "id": 2, 
+        "nombre": "Desarrollo Back-End", 
+        "descripcion":"Programas virtuales para el desarrollo de habilidades de programación a lo largo de todo el Stack tecnológico. Al finalizar sabrás cómo crear una página web y desarrollar la lógica detrás del funcionamiento de una aplicación, así como formar parte de una gran comunidad de desarrolladores.",
+        "precio": 700, 
+        "imagen":"curso-backend" 
+    },
+    { 
+        "id": 3, 
+        "nombre": "Desarrollo de Aplicativos Móviles", 
+        "descripcion":"El desarrollo de aplicaciones móviles es el conjunto de procesos y procedimientos involucrados en la escritura de software para pequeños dispositivos inalámbricos de cómputo, como teléfonos inteligentes o tabletas.Desarrolla con nosotros aplicaciones para dispositivos móviles utilizando lenguaje de programación Java Script y librería React Native.",
+        "precio": 600, 
+        "imagen":"curso-APP" 
+    },
+    { 
+        "id": 4, 
+        "nombre": "Diseño de Experiencia de Usuario", 
+        "descripcion":"Diseña con nosotros un producto digital destinado a satisfacer las necesidades del usuario final a través de técnicas de diseño, prototipado y testeo con las herramientas más utilizadas en el ámbito laboral.",
+        "precio": 900, 
+        "imagen":"curso-ux" 
+    },
+    { 
+        "id": 5, 
+        "nombre": "Desarrollo de Videojuegos", 
+        "descripcion":"Los diseñadores de videojuegos crean ideas para videojuegos y ayudan a determinar la apariencia y la forma de juego. Aprende a plasmar tus ideas de un videojuego y crea las especificaciones en una interfaz alineada.",
+        "precio": 1100, 
+        "imagen":"curso-videojuegos" 
+    },
+    { 
+        "id": 6, 
+        "nombre": "Marketing Digital", 
+        "descripcion":"",
+        "precio": "", 
+        "imagen":"curso-marketing" 
+    },
+    { 
+        "id": 7, 
+        "nombre": "Data Analytics", 
+        "descripcion":"",
+        "precio": "", 
+        "imagen":"curso-data" 
+    },
+    { 
+        "id": 8, 
+        "nombre": "Desarrollo Front-End Avanzado", 
+        "descripcion":"",
+        "precio": "", 
+        "imagen":"curso-frontend2" 
+    }
+]
